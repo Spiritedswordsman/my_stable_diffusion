@@ -15,8 +15,8 @@ Additionally, this implementation references concepts and methodologies from **H
 To use this implementation, clone the repository and install the required dependencies:
 
 ```sh
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Spiritedswordsman/my_stable_diffusion.git
+cd my_stable_diffusion
 pip install -r requirements.txt
 ```
 - Refer demo.ipynb for example usage
